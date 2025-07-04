@@ -67,9 +67,9 @@ By simulating multiple cost scenarios (e.g., changes in food, equipment, and res
 Feel free to reach out if you have questions or feedback!
 
 **Created by:** Afsal V P  
-📧 Email: [your-email@example.com]  
-🌐 LinkedIn: [your-linkedin-url]  
-📁 GitHub: [your-github-profile]
+📧 Email: mohdafzaal6097@gmail.com
+🌐 LinkedIn:https://www.linkedin.com/in/mohammed-afsal-2bb9b7249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+📁 GitHub: mohammedafsalvp
 
 ---
 
